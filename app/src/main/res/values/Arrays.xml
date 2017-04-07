@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sortable_fields">
+        <item>Company</item>
+        <item>Price</item>
+        <item>Location</item>
+   </string-array>
+
+    <string-array name="options">
+        <item>Tenton Software</item>
+        <item>CNU - Defender</item>
+    </string-array>
+
+    <string-array name="optionsValues">
+        <item>http://www.tetonsoftware.com/bikes/</item>
+        <item>http://www.pcs.cnu.edu/~kperkins/bikes/</item>
+    </string-array>
+
+</resources>
